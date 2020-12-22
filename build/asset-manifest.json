@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zsku-mgmt/static/css/main.43956f2d.chunk.css",
+    "main.js": "/zsku-mgmt/static/js/main.afd572ad.chunk.js",
+    "main.js.map": "/zsku-mgmt/static/js/main.afd572ad.chunk.js.map",
+    "runtime-main.js": "/zsku-mgmt/static/js/runtime-main.f0c1c28d.js",
+    "runtime-main.js.map": "/zsku-mgmt/static/js/runtime-main.f0c1c28d.js.map",
+    "static/js/2.1bdd43a9.chunk.js": "/zsku-mgmt/static/js/2.1bdd43a9.chunk.js",
+    "static/js/2.1bdd43a9.chunk.js.map": "/zsku-mgmt/static/js/2.1bdd43a9.chunk.js.map",
+    "index.html": "/zsku-mgmt/index.html",
+    "precache-manifest.c97ba31282f97d5e8ef213136f8881c4.js": "/zsku-mgmt/precache-manifest.c97ba31282f97d5e8ef213136f8881c4.js",
+    "service-worker.js": "/zsku-mgmt/service-worker.js",
+    "static/css/main.43956f2d.chunk.css.map": "/zsku-mgmt/static/css/main.43956f2d.chunk.css.map",
+    "static/js/2.1bdd43a9.chunk.js.LICENSE.txt": "/zsku-mgmt/static/js/2.1bdd43a9.chunk.js.LICENSE.txt",
+    "static/media/logo.f52357e3.svg": "/zsku-mgmt/static/media/logo.f52357e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0c1c28d.js",
+    "static/js/2.1bdd43a9.chunk.js",
+    "static/css/main.43956f2d.chunk.css",
+    "static/js/main.afd572ad.chunk.js"
+  ]
+}

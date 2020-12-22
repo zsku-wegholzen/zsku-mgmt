@@ -1,0 +1,14 @@
+<svg width="250" height="250" version="1.1" viewBox="0 0 66.146 66.146" xmlns="http://www.w3.org/2000/svg">
+	<title>ZSKU Logo</title>
+	<g transform="translate(0 -230.85)">
+		<g transform="matrix(2.5493 0 0 2.5493 -32.372 -379.35)" style="stroke-width:.79375">
+			<path d="m17.907 240.94h15.502v15.502h-15.502z" style="fill:none;stroke-width:.79375;stroke:#000"/>
+			<path d="m17.907 256.44 15.502-15.502" style="fill:none;stroke-width:.79375;stroke:#000"/>
+			<path d="m33.409 256.44-7.7508-7.7508v-7.7508" style="fill:none;stroke-width:.79375;stroke:#000"/>
+			<path d="m25.658 248.69v7.7508" style="fill:none;stroke-width:.79375;stroke:#000"/>
+			<path d="m25.658 248.69c-2.1403 0-3.8754-1.7351-3.8754-3.8754 3e-6 -2.1403 1.7351-3.8754 3.8754-3.8754s3.8754 1.7351 3.8754 3.8754" style="fill:none;stroke-width:.79375;stroke:#000"/>
+			<path d="m25.632 248.68c2.1403 0 3.8754 1.7351 3.8754 3.8754 2e-6 2.1403-1.7351 3.8754-3.8754 3.8754s-3.8754-1.7351-3.8754-3.8754" style="fill:none;stroke-width:.79375;stroke:#000"/>
+			<path d="m33.409 256.46c3e-6 4.2807-3.4702 7.7508-7.7508 7.7508s-7.7508-3.4702-7.7508-7.7508" style="fill:none;stroke-width:.79375;stroke:#000"/>
+		</g>
+	</g>
+</svg>

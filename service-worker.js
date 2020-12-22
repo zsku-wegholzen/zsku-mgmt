@@ -13,14 +13,12 @@
 
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
-importScripts(
-  "/zsku-mgmt/precache-manifest.75ff5564bd893fbb7bc7b08213168475.js"
-);
+importScripts("/zsku-mgmt/precache-manifest.e8af1d819e933feac433197bf10d3a9a.js");
 
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
+self.addEventListener("message", (event) => {
+	if (event.data && event.data.type === "SKIP_WAITING") {
+		self.skipWaiting();
+	}
 });
 
 workbox.core.clientsClaim();
@@ -34,6 +32,5 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/zsku-mgmt/index.html"), {
-  
-  blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
+	blacklist: [/^\/_/, /\/[^\/?]+\.[^\/]+$/],
 });
